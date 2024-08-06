@@ -1,4 +1,4 @@
-### Codes for the conference paper ready for submission titled "End-to-End Lower Limb Motion Recognition with Modal-Channel Attention and Dual-Branch Adaptive Fusion Network via sEMG and Kinematic Data" (ICET, 2024).
+### Codes for the conference paper titled "End-to-End Lower Limb Motion Recognition with Modal-Channel Attention and Dual-Branch Adaptive Fusion Network via sEMG and Kinematic Data" (ICET, 2024, Accepted).
 ### Install: 
 Use "Install.ipynb" to create the environment and dependencies, or install the required dependencies using "pip install requirements.txt".
 ### Usage:
